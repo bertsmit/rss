@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Promed</title>
+    <link>http://localhost/rss</link>
+    <description>RSS Feed van Promed.</description>
+    <item>
+      <title>Mijn eerste sportbericht</title>
+      <link>http://localhost/rss/uploads/60701c5253ede.jpg</link>
+      <description>Dit geld voor Veendam.&#xD;
+&#xD;
+De F24 van Veendam wordt in September gereden.</description>
+      <enclosure url="http://localhost/rss/uploads/60701c5253ede.jpg" length="0" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

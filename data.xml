@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+  <title>Name of Channel</title>
+  <link>http://address.of/site</link>
+  <description>Description of Channel</description>
+
+  <lastBuildDate>Mon, 1 Jan 2007 00:00:00 GMT</lastBuildDate>
+  <item><category>5ac522dca223f</category>
+    <title>zcx</title>
+    <description>sfsdfadf</description>
+    <rubric>scherm1</rubric>
+    <startDate>04/04/2018 21:09</startDate>
+    <endDate>06/04/2018 21:09</endDate>
+  </item>
+<item><category>5ac522e6ef770</category><title>asdfasd</title><description>ad fasdf a</description><rubric>scherm1</rubric><startDate>04/04/2018 21:09</startDate><endDate>06/04/2018 21:09</endDate></item></channel></rss>

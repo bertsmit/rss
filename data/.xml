@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>RRS TEST</title>
+    <link>http://localhost/xml</link>
+    <description>RRS TEST</description>
+    <item>
+      <title>fsds</title>
+      <link>http://localhost/xml/uploads/nothing.png</link>
+      <description>sfd</description>
+      <enclosure url="http://localhost/xml/uploads/nothing.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>asdas</title>
+      <link>http://localhost/xml/uploads/5b07f76ae0805.jpg</link>
+      <description>asdasd</description>
+      <enclosure url="http://localhost/xml/uploads/5b07f76ae0805.jpg" length="0" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

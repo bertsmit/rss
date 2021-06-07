@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Promed</title>
+    <link>http://rss.scherminfo.nl/</link>
+    <description>RSS Feed van Promed.</description>
+    <item>
+      <title>rupsenplaag</title>
+      <link>http://rss.scherminfo.nl//uploads/nothing.png</link>
+      <description>IN Elburg overheerst momenteel een rupsenplaag</description>
+      <enclosure url="http://rss.scherminfo.nl//uploads/nothing.png" length="0" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
